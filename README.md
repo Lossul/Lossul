@@ -15,7 +15,8 @@ React · Django · Next.js · TypeScript · Python · PostgreSQL · LangChain ·
 
 ## Real me lol
 
-Badminton. Football, Cricket, Countries(Geoguessr is solid), Street food
+Football, Cricket, btw soft corner for Racket sports(Badminton, Tennis, Table tennis)
+Countries (Geoguessr is solid), Street food, Travel vlogs (is ts tuff)
 
 ---
 

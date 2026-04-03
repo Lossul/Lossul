@@ -15,9 +15,11 @@ React · Django · Next.js · TypeScript · Python · PostgreSQL · LangChain ·
 
 ## Real me lol
 
-Football, Cricket, btw soft corner for Racket sports(Badminton, Tennis, Table tennis)
+Football, Cricket, btw soft corner for Racket sports(Badminton, Tennis, Table tennis),
 Countries (Geoguessr is solid), Street food, Travel vlogs (is ts tuff)
 
 ---
 
 pshriv365@gmail.com
+
+*p.s. something's off — spotted it? [let's connect](https://linkedin.com/in/pranjal-shriv)*

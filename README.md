@@ -22,4 +22,4 @@ Countries (Geoguessr is solid), Street food, Travel vlogs (is ts tuff)
 
 pshriv365@gmail.com
 
-*p.s. something's off — spotted it? [let's connect](https://linkedin.com/in/pranjal-shriv)*
+*p.s. there's a typo somewhere — spotted it? [let's connect](https://linkedin.com/in/pranjal-shriv)*
